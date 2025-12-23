@@ -12,5 +12,5 @@
 
 Branch = versao_01
 
-5. Realizar um Fork e Pull Request; [ ]
+5. Realizar um Fork e Pull Request; [ X ]
 
